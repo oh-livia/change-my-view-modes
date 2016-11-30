@@ -1,0 +1,65 @@
+CMV: Motor vehicles should indicate to the driver when they are using an inappropriate following distance (a.k.a tailgating)
+https://www.reddit.com/r/changemyview/comments/5eu5cy/cmv_motor_vehicles_should_indicate_to_the_driver/
+
+<OP ID="inattentive">
+I like that most modern cars have the seat belt reminder chime and light. This feature is considered annoying by some, but over the years it has helped to <pathos> change the behavior of many drivers for the better </pathos>. I think a <logos> similar feature could teach drivers to use a safe and efficient following distance </logos>.
+
+Tailgating is behavior which not only increases the risk of collision but it also creates inefficiencies in the flow of traffic. It's pretty obvious that the <logos> less time a driver has to react, the less likely they will be able to avoid impact when the proceeding car changes speeds </logos>. The effects of tailgating on the flow of traffic are more convoluted.
+
+<logos> <ethos>Take the following example; when a drivers uses their brakes, a car following too closely must also use their brakes. When many cars are tailing gating in series, one car braking can lead to a cascading chain of braking cars. This cascade can grow and evolve into a full blow traffic jam if the conditions are right </logos> </ethos>. If this seems far fetched to you, please watch the CPG grey video I have linked below.
+
+<pathos> <ethos> I live in NJ, and tailing gating is so ubiquitous here that I suspect many drivers simply don't realize they are doing it. I don't know if you have every tried to correct someones driving as a passenger, but trust me when I say it will be poorly received </ethos> </pathos>. Human psychology won't allow for good drivers to correct their friends and families directly. This is why I think the car should be the one to correct the user. <pathos> <logos> No matter how upset the driver may get, the car won't care or back down </logos> </pathos>.
+
+Legislative bodies can mandate that all new cars come equipped with a following distance chime and light. The alert would be triggered when the following distance was too short for the cars given speed and mass. <logos> Initially there would be lots of push back from the users and manufacturers. Over time, however, people would start to drive with 3 plus seconds of space between them and the leading car. </logos> Society would reap the benefits and people would stop caring about the chime.
+
+<link subject="traffic snakes"> CPG grey: The Simple solution to Traffic </link>
+
+He offers a great explanation on what he calls "traffic snakes"
+
+<link subject="seat belt reminder"> Wikipedia: Seat belt reminder chime and light </link>
+
+Breif history of the seat belt reminder chime showing its negative reception and postive effects
+
+<update>
+EDIT: The most convincing arguments that I have read so far are based around the idea that the ideal following distance threshold cannot be determined for all conditions. If the threshold is too low, drivers will become conditioned to follow at unsafe distances. It the threshold is too high, drivers will get annoyed and disable/ignore the alert.
+
+My feeling towards this type of argument is that <logos> even if the alert is not set to the ideal distance it will still do far more good than harm </logos>.
+</update>
+</OP>
+---
+<reply ID="freaky-tiki">
+What you're describing is a Cautionary Collision Warning System.
+
+The NHTSA has guidelines (The link downloads the pdf, sorry. Otherwise, google: Crash Warning System Interfaces: Human Factors Insights and Lessons Learned)
+
+<logos> The disadvantages of a warning system like you describe are:
+- May increase likelihood of real or perceived false alarms
+- May reduce driver trust and use of the system due to false alarms </logos>
+
+It is not recommended that they have a auditory warning. This is highly obtrusive and should be reserved for imminent threat warnings. It is likely that this CCW would happen relatively frequently.
+
+From the report:
+	the evidence showing that these [visual] displays are effective in increasing driver headway is not strong, and also that these benefits may be limited to specific driving situations (e.g., limited access roads in the daytime)
+	
+False alarms are an issue:
+	The first are false alarms that do not represent potential forward hazards (e.g., out-of path hazards) and the second are those related to warning timing (e.g., premature warning).
+	
+For the purposes you describe, the research doesn't show an alert would be effective without being obtrusive.
+</reply>
+	<OPresponse>
+	!delta You get the delta!
+	I see how false alarms, especially in high density traffic, can be a real problem. I also found the report you submitted very convincing. I knew somebody had to have professionally looked into this kind of system.
+	</OPresponse>
+	
+	<subreply ID="username">
+	I still agree completely with your OP.
+	
+	Perhaps the alarm for tailgating could be of a very different character from alarms for more imminent danger, but I would still favor an <pathos> auditory warning annoying enough to deter tailgating without being confused with other alarms or reducing sensitivity to them <pathos>. <logos> To adjust for heavy traffic, there could be a cushion time, like 10-15 seconds of excessive proximity before the alarm begins, for when somebody has to squeeze into a different lane and drivers need a bit of time to create some space </logos>.
+	
+	As an example of the kind of unmistakable auditory warning tailgaters deserve, I suggest Never gonna give you up....
+	<subreply>
+	
+	<delta_award>
+	Confirmed: 1 delta awarded to /u/freaky-tiki (2 !delta).
+	</delta_award>
+
