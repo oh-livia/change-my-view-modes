@@ -1,0 +1,28 @@
+README: Annotation Guidelines/Notes for Psychedelic Drugs
+
+Tags to include
+    * Title
+    * Source (link to post for reference)
+    * Original post, root replies
+	- <OP> xxx </OP>
+	- <reply ID="xxx" delta="x" length="x">
+	    * ID is the username
+	    * delta = 0 if no delta is awarded to reply author, 1 if it is
+	    * length is the number of replies in the same branch after the root reply. If
+	      delta == 1, length == the position of OP rewarding delta with OP at index 0.
+	      If delta == 0, length == the total number of posts in same branch including RR.
+	- Record length of reply tree until it ends OR delta is awarded
+    * Non-user text (not the user's own words, like quotes from other sources)
+	- Tag: evidence
+	- Attribute: type="quote", "link", etc.
+
+File names: system?
+    * Maybe a system of numbers. I usually put a 2-3 summary of subject
+
+Notes on psychedelic drugs CMV post
+    * I aimed for breadth rather than depth, so I chose to record several root replies rather
+      than a single response branch.
+    * Based on a paper I read, I thought the length of the response branch (which indicates
+      back and forth conversation) might be important. I marked the number of posts in a
+      branch until it ends or until a delta is awarded.
+ 

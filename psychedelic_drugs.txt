@@ -1,0 +1,66 @@
+<title> CMV: I believe psychedelic drugs like psilocybin mushrooms, LSD, and ayahuasca should be available by physician recommendation </title>
+<source> https://www.reddit.com/r/changemyview/comments/5fmzco/cmv_i_believe_psychedelic_drugs_like_psilocybin/ </source>
+
+<OP ID="anythingnoniding">
+I believe that a system like medical marijuana would be net positive for society and especially the individuals that want access like this.
+
+<evidence type="quote">
+The law removes state-level criminal penalties on the use, possession, and cultivation of cannabis by patients who possess a "written or oral recommendation" from their physician that he/she "would benefit from medical cannabis." Patients diagnosed with any illness where the medical use of cannabis has been "deemed appropriate and has been recommended by a physician" are provided with legal protection under this act.
+</evidence>
+
+<logos> Main benefit: This would allow people who already want to use these things decently responsibly a way to get access without legal <pathos> fear </pathos>, and if there's a possibility that these substances can make people <pathos> more satisfied </pathos> or teach them things then this is beneficial </logos>
+
+I believe the main reason this wouldn't happen is due to propaganda and fear
+
+I think there's a possibility this could happen thanks to the marijuana policy changes
+
+<logos> Mushrooms and LSD especially are currently showing great scientific promise. Personally I also believe they can make healthy (i.e. non-ill) people wiser (in part through helping them see the subjectivity of many aspects of life). Also, many people already use these substances and want safer and legal access to them. Therefore I believe people should be able to get easier access to them. </logos>
+
+To be clear: <logos> My point is that they should be available on patients request. We are too early in research stage for them to be proactively offered by physicians </logos>.
+
+I do believe that for people who have read things online or heard things from friends and decided they want to try <pathos> ayahuasca for low grade depression / feeling lost, psilocybin for cluster headaches or anxiety from cancer <pathos>, and so on, <logos> they should be able to do so with legal protection with a physicians note, in the same way that people who wanted to smoke marijuana for various medical reasons could do so in California for a while (now legal) with a physicians referral </logos>.
+
+</OP>
+
+<reply ID="zzMojaveExpress" delta="0" length="3">
+
+<logos> Physicians shouldn't be involved unless the drug is going to treat a condition and it has been proven.
+
+"Heard things from friends" isn't enough proof. </logos>
+
+</reply>
+
+<reply ID="bguy74" delta="1" length="0">
+
+Is there a reason we should side-step the process we use to recognize a substance as medical? MDMA is in phase 2 clinical trials for treatment of PTSD, for example. But...are you suggesting that we should make an exception to our medical approval process for these drugs?
+
+I am actually of the mind that the side-stepping of the approval for marijuana as a medical substance was a disservice to medicine generally. <pathos> How would we feel if a big-pharma said "fuck the FDA - lets just lobby the public to approve this and get it on the ballot". <logos> While I have major issues with the FDA </pathos>, I do believe that if we're going to call something medicine we should hold it to a standard </logos>.
+
+<logos> If they are substantially safe to not require control, then I'm all for it being freely available recreationally and for people to "self-medicate" to whatever degree they want. </logos> But, I want to really know what it means to call something "medicine" under our system.
+
+</reply>
+
+<reply ID="Junglepuker" delta="0" length="0">
+
+Ayahuasca cures cancer, diabetes, autoimmune disorders, depression, literally hundreds of other conditions. Check out harmine in oncology and harmine pancreatic beta cells. And that's only one of many, many alkaloids.
+
+</reply>
+
+<reply ID="NoneApplicable" delta="1" length="2">
+
+First, I want to say I actually do agree that Shrooms and LSD <i> might </i> actually have <i> some </i> medical benefits. The problem though is that we simply don't know. <logos> Until, we have a thorough, researched based understanding of both the positive and negative effects of these substances (and really any substance) it's <pathos> incredibly foolish </pathos> and I'd even go as far as to say <pathos> unethical </pathos> for physicians to hand them out to their patients </logos>. I think a much better solution is to lower their restrictions so that they can be properly studied. Once they have been shown to have efficacy in all steps in the clinical testing process, then and only then can we allow them to be allowed to be prescribed
+
+</reply>
+
+<reply ID="Junglepuker" delta="0" length="0">
+
+<logos> Plants should have no restrictions whatsoever. If you think about it, the outlawing of a naturally growing thing is quite insane. </logos>
+
+</reply>
+
+<reply ID="dilatory_tactics" delta="0" length="1">
+
+You shouldn't even need a physician's recommendation.
+They have significant practical uses beyond "just" treating illnesses.
+
+</reply>
