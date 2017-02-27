@@ -4,26 +4,15 @@ Tags to include
 Title
 Source (link to post for reference)
 Original post, root replies
+Thread (including OP and RR)
 
-<OP> xxx </OP>
-<reply ID="xxx" delta="x" length="x">
-ID is the username
-delta = 0 if no delta is awarded to reply author, 1 if it is
-length is the number of replies in the same branch after the root reply. If delta == 1, length = the position of OP rewarding delta with OP at index 0. If delta == 0, length = the total number of posts in same branch including RR.
+<thread ID="xxx">
+<OP author="xxx"> xxx </OP>
+<reply author="xxx">
 
-Record length of reply tree until it ends OR delta is awarded
-
-Non-user text (not the user's own words, like quotes from other sources)
-Tag: evidence
-Attribute: type="quote", "link", etc.
-
-General notes
-To avoid ambiguity over a delta not being awarded and the OP simply not reading a reply, I only took responses that the OP had responded to.
-
-File names: system?
-Maybe a system of numbers. I usually put a 2-3 summary of subject
-
-Notes on psychedelic drugs CMV post
-I aimed for breadth rather than depth, so I chose to record several root replies rather than a single response branch.
-Based on a paper I read, I thought the length of the response branch (which indicates back and forth conversation) might be important. I marked the number of posts in a branch until it ends or until a delta is awarded.
+Argumentation tags (listed in decreasing frequency of occurrence)
+Logos (<logos>): appeal to logic. Keywords include if/then, therefore, because.
+Pathos (<pathos>): appeal to emotion. Indicators include words with emotional weight (ex: terror) or phrases that induce emotion (ex: driving is dangerous).
+Ethos (<ethos>): appeal to authority. Author often indicates authority through experiences ("I know driving is dangerous because I was in an accident), status ("I know about driving because I drive a lot"), or title ("I know about driving because I am a driving instructor").
  
+Other tags
