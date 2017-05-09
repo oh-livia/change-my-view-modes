@@ -21,7 +21,7 @@ An argument is the justification provided by the speaker/writer in support of a 
 
 **Claims**: stances expressed by a speaker on a certain matter. They can express predictions (e.g. “I think that the left wing will win the elections”), interpretations (“Probably John went home”), evaluations (e.g. “Your choice is a bad one”) as well as agreement/disagreement with other people’s claims (“I think you are totally wrong”/ “I agree”).  Note that in the latter case, it is frequent to find concessive statements of the type  “I agree with you that the environmental consequences are bad, but I still think that […]” where the speaker at the same time agrees and disagrees with other people’s claims. In those cases the proposition expressing agreement and that expressing sort of disagreement should be annotated as two separate claims. 
 
-**Arguments**: justifications provided by the speaker in support of a claim to persuade the audience of the validity of the claim. Like claims they can express opinions but their function is not that of introducing a new stance, but that of supporting one previously expressed. 
+**Premises**: justifications provided by the speaker in support of a claim to persuade the audience of the validity of the claim. Like claims they can express opinions but their function is not that of introducing a new stance, but that of supporting one previously expressed. 
 
 Arguments can exploit 3 modes of persuasion: logos, pathos and ethos. 
 
