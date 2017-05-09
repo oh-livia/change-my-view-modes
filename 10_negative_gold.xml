@@ -50,7 +50,7 @@ Scenario 3:
 
   <premise> Do you wait until you're sure he has decided to use his firearm to act? </premise> or <premise> do you act first because by the time you're sure he is going to draw his firearm, you won't have time to act before he shoots you? </premise>
 
-  <claim> The only reason this stuff doesn't happen all the time is because we can make the reasonable assumption that a person we are having a conflict with is unarmed. </claim> <premise> As soon as it becomes a reasonable assumption, immediately escalating a conflict to deadly force starts being the best option. </premise>
+  <claim> The only reason this stuff doesn't happen all the time is because we can make the reasonable assumption that a person we are having a conflict with is unarmed. </claim> <claim> As soon as it becomes a reasonable assumption, immediately escalating a conflict to deadly force starts being the best option. </claim>
 
 <premise> I've worked in customer service and have been yelled at by strangers more often than anyone should have. </premise> <premise> If I lived in a society where most people were carrying firearms, I would have had to ask myself "Is this person angry enough to kill me? because if I wait to find out for sure I'll already be dead" way more often than I'd like. </premise>
 </reply>
