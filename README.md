@@ -39,6 +39,8 @@ i.e. “<claim> everybody should eat at least one fruit a day</claim>  because <
 
 3. Both claims and arguments can be expressed by sentences at the interrogative form in presence of rhetorical questions – questions that are not meant to require an answer, which is obvious, but to lay emphasis on a state of affairs. Their function as claims/arguments has, thus, to be decided in context: e.g.  “<claim> Isn’t it great that we have no control on our private information being spread on social media? </claim>”. “<claim> We should fight for our privacy on the Web </claim>. <pathos> Don’t you love that  Google knows your favorite brand of shoes? </pathos>” .
 
+4. Sometimes the main claim is in the title and the text immediately starts with an argument.  In this case we do not mark the title as claim.
+
 Example
 -------
 ```xml
