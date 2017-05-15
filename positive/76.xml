@@ -3,11 +3,11 @@
 <title>CMV: Surplus Value Theorem is definitive proof that capitalism is an inefficient system.</title>
 <source>http://www.reddit.com/r/changemyview/comments/2qnzap/cmv_surplus_value_theorem_is_definitive_proof/</source>
 <OP author="SouthernGlenfidditch">
-As I understand it, and crudely explained, SVT says that in an economic system that lets people hire other people for labour, waste has to be produced in order for the system to function.
+<premise>As I understand it</premise>, and <premise>crudely explained</premise>, SVT says that <premise>in an economic system that lets people hire other people for labour</premise>, <claim>waste has to be produced in order for the system to function</claim>.
 
-Example: Consider a society of 101 people: 100 workers and 1 boss. The boss owns the factory where the workers work, and they produce, say, MLP dolls that everyone wants to buy. The boss pays each of her workers £5 for each doll that the worker produces, and a worker produces 1 doll a day. At the end of the day, the boss has 100 dolls, worth £1000 and has paid out £500. Wanting to make a profit on the dolls, the boss then sells the dolls for £10 each. She is now trying to sell £1000 worth of dolls, but the only people available to sell to are the workers, who's total funds are £500. No matter how they rearrange the money between them, they will be unable to buy more than £500 worth of the dolls, and so the rest are waste inherent to the system and a direct result of the boss wanting to make profit.
+Example: <premise>Consider a society of 101 people: 100 workers and 1 boss.</premise> <premise>The boss owns the factory where the workers work</premise>, and <premise>they produce, say, MLP dolls that everyone wants to buy</premise>. <premise>The boss pays each of her workers £5 for each doll that the worker produces, and a worker produces 1 doll a day</premise>. <premise>At the end of the day, the boss has 100 dolls, worth £1000 and has paid out £500</premise>. <premise>Wanting to make a profit on the dolls, the boss then sells the dolls for £10 each.</premise> <premise>She is now trying to sell £1000 worth of dolls</premise>, but <premise>the only people available to sell to are the workers, who's total funds are £500</premise>. <premise>No matter how they rearrange the money between them, they will be unable to buy more than £500 worth of the dolls</premise>, and so <premise>the rest are waste inherent to the system and a direct result of the boss wanting to make profit.</premise>
 
-This example then scales up to the whole world when you throw in multiple bosses and lots more workers but the basic idea is the same: if each worker is being paid less than the price of the things they produce so that their boss can profit, then items that cannot be sold must still be produced and thrown away.
+<premise>This example then scales up to the whole world when you throw in multiple bosses and lots more workers but the basic idea is the same</premise>: if <premise>each worker is being paid less than the price of the things they produce so that their boss can profit</premise>, then <claim>items that cannot be sold must still be produced and thrown away.</claim>
 
 _____
 
@@ -16,24 +16,24 @@ _____
 <reply id="cn7x1ic" author="ghotionInABarrel">
 &gt; The boss pays each of her workers £5 for each doll that the worker produces
 
-Most people aren't paid on commission, so this isn't really a good example, but I think I get where you're going with it. 
+<premise>Most people aren't paid on commission</premise>, so <claim>this isn't really a good example</claim>, but <claim>I think I get where you're going with it. </claim>
 
 &gt;if each worker is being paid less than the price of the things they produce
 
-But the money doesn't just disappear.  For one thing, you're neglecting the janitor who is necessary to keep the factory functioning (and presumably gets paid) but doesn't "produce" anything.  You're also neglecting that when this system scales up you need to include the boss buying things.  
+<claim>But the money doesn't just disappear.</claim>  For one thing, <premise>you're neglecting the janitor who is necessary to keep the factory functioning (and presumably gets paid) but doesn't "produce" anything.</premise>  You're also neglecting that <premise>when this system scales up you need to include the boss buying things.  </premise>
 
-Since whatever profit the boss makes goes back into the system as they spend money, there should be at all times enough money in the system to cover the value of what it produced.  This value may not be the price being charged for the thing, and that's where supply and demand are involved.  
+Since <premise>whatever profit the boss makes goes back into the system as they spend money</premise>, <claim>there should be at all times enough money in the system to cover the value of what it produced</claim>.  <premise>This value may not be the price being charged for the thing</premise>, and <claim>that's where supply and demand are involved</claim>.  
 
-I'm not going to deny that sometimes (or a lot of the time) the boss just hoards their extra money and doesn't re-inject it, but that's more a failure of the system than the system itself.  The same goes for when something is priced above its market value, it won't sell and will be waste, but that's because the seller overpriced it, not because it was doomed to be waste as soon as it was made.
+I'm not going to deny that <premise>sometimes (or a lot of the time) the boss just hoards their extra money and doesn't re-inject it</premise>, but <claim>that's more a failure of the system than the system itself</claim>.  <claim>The same goes for when something is priced above its market value</claim>, <premise>it won't sell and will be waste</premise>, but that's because <premise>the seller overpriced it</premise>, <premise>not because it was doomed to be waste as soon as it was made.</premise>
 
-No ideal system is really going to be inefficient, its the real ones that have problems.  
+<claim>No ideal system is really going to be inefficient</claim>, <claim>its the real ones that have problems.</claim>  
 
-If you mean to say that real-life capitalism is inefficient, then no one is going to dispute you, but I will point out that it's the most efficient real system we have.
+If <premise>you mean to say that real-life capitalism is inefficient</premise>, then <claim>no one is going to dispute you</claim>, but I will point out that <claim>it's the most efficient real system we have</claim>.
 </reply>
 <reply id="cn7yrgj" author="SouthernGlenfidditch">
 &amp;#8710;
 
-That makes a lot of sense! Thank you! I can accept that it would be a wasteless system if there were multiple factories and the boss spent all of their money! 
+That makes a lot of sense! Thank you! I can accept that <claim>it would be a wasteless system if there were multiple factories and the boss spent all of their money! </claim>
 
 I can definitely think of other bits of inefficiency but that wasn't the question so nevermind! :)
 </reply>
